@@ -1,1 +1,1 @@
-# startup_of_2021
+It's a course project: Landing Page built with Bootstrap.
